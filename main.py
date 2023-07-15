@@ -1,5 +1,4 @@
 import csv 
-import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 filename2010 = "i25_2010University.csv"
